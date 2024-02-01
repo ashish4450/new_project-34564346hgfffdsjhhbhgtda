@@ -1,0 +1,160 @@
+body{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: #4070F4;
+}
+.body_1{
+    width: 350px;
+    height: 500px;
+    border: 1px solid black;
+    background-color:#FFFFFF ;
+    border-width: 0;
+    box-shadow: 0 4px 8px 0;
+    border-radius: 7px ;
+    text-align: center;
+   
+    
+
+}
+.body_1 h2{
+    color:#352A37 ;
+}
+.email_1{
+    width: 280px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #a6aaad;
+   
+
+}
+.email_1:hover{
+background-color: #f0f0f0;
+}
+.password_1{
+    width: 280px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #a6aaad;
+}
+.password_1:hover {
+    background-color: #f0f0f0;
+}
+.Forgot_1{
+    text-decoration: none;
+    color: #1885d8;
+    
+}
+
+
+.login_1{
+    width: 280px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #a6aaad;
+    background-color: #0882ed;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+.login_1:hover {
+    background-color: #509be7;
+}
+.account_1{
+    font-size: 1opx;
+
+}
+.Signup_1{
+    text-decoration: none;
+    color: #1885d8;
+}
+.Signup_1:hover{
+    color: rgb(0, 255, 0);
+}
+.box{
+    float: left;
+}
+.hr_1{
+    width: 100px;
+    margin-left: 55px;
+    color: #a6aaad;
+}
+.hr_2 {
+    width: 100px;
+    color: #a6aaad;
+}
+.or_1{
+    margin-top: -1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #a6aaad;
+    overflow: hidden;
+
+}
+.footingUp_1{
+    width: 280px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #a6aaad;
+    background-color: #0f5091;
+    margin-left: 35px;
+}
+.footingUp_1:hover {
+    background-color: #377bbe;
+}
+.box_2{
+    float: left;
+
+}
+.pic_1{
+    background-image: url(fac.png);
+    width: 30px;
+    height: 30px;
+    border: 1px solid black ;
+    background-size:30px 30px;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    border-width: 0;
+    margin-top: 2px;
+}
+.footingUp_2{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 8px;
+    margin-left: 40px;
+    overflow: hidden;
+
+}
+.footingdown_1{
+    width: 280px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #a6aaad;
+    margin-left: 35px;
+    
+}
+.footingdown_1:hover {
+    background-color: #f0f0f0;
+}
+.box_3{
+    float: left;
+}
+.pic_2{
+    background-image: url(goo.png);
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    border-width: 0;
+    margin-top: 2px;
+}
+.footingdown_2{
+    text-decoration: none;
+    color:#a6aaad;
+    margin-top: 8px;
+    margin-left: 40px;
+    overflow: hidden;
+}
